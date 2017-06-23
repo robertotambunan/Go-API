@@ -12,7 +12,7 @@ routes:
 
 http://localhost:9299/produk/ -> get Bukalapak product list (20 items)
 
-http://localhost:9299/produk/{keyword} -> get Bukalapak product that keyword
+http://localhost:9299/produk/{keyword} -> get Bukalapak product with keyword
 
 
 Ps: Dont forget to go get first, then go build and go install
